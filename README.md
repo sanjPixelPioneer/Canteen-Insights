@@ -49,7 +49,7 @@ This project reflects how aspiring Product Analysts or Product Managers can:
 
 
 ## 🔗 Project Preview  
-📥 [Click here to view or download the Excel + SQL files]([https://github.com/sanjPixelPioneer/Canteen_Insights_SQL_Excel](https://github.com/sanjPixelPioneer/Canteen-Insights))
+📥 [Click here to view or download the Excel + SQL files](https://github.com/sanjPixelPioneer/Canteen-Insights)
 
 
 ## 👩🏻 Author  
