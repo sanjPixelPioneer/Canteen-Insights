@@ -1,0 +1,51 @@
+Item_id,Item_name,Category, Price (Rs.)
+101,Masala Dosa,South Indian,30
+102,Fried Rice,Chinese,50
+103,Tea,Beverage,10
+104,Coffee,Beverage,15
+105,Samosa,Snacks,12
+106,Burger,Fast Food,60
+107,Paneer Roll,Fast Food,40
+108,Idli,South Indian,25
+109,Chowmein,Chinese,45
+110,Juice,Beverage,20
+111,Poori,South Indian,35
+112,Veg Biryani,Indian,55
+113,Egg Roll,Fast Food,45
+114,Paratha,North Indian,30
+115,Momos,Chinese,35
+116,Pav Bhaji,Indian,40
+117,Sandwich,Snacks,25
+118,Milkshake,Beverage,50
+119,Maggi,Snacks,30
+120,Curd Rice,South Indian,35
+121,Masala Vada,South Indian,20
+122,Spring Roll,Chinese,45
+123,Lassi,Beverage,30
+124,Paneer Butter Masala,North Indian,80
+125,Dhokla,Snacks,25
+126,Noodles,Chinese,50
+127,Cold Coffee,Beverage,40
+128,Onion Pakora,Snacks,20
+129,Chicken Biryani,Indian,90
+130,Mysore Pak,South Indian,35
+131,Rajma Chawal,North Indian,70
+132,Dosa (Plain),South Indian,25
+133,Manchurian,Chinese,60
+134,Falooda,Beverage,55
+135,Vada Pav,Snacks,20
+136,Thali (Veg),Indian,100
+137,Chicken Roll,Fast Food,55
+138,Jalebi,Snacks,30
+139,Butter Naan,North Indian,25
+140,Lemon Soda,Beverage,25
+141,Chole Bhature,North Indian,60
+142,Rava Upma,South Indian,30
+143,French Fries,Fast Food,40
+144,Veg Cutlet,Snacks,25
+145,Paneer Tikka,Indian,85
+146,Masala Tea,Beverage,15
+147,Schezwan Noodles,Chinese,55
+148,Gulab Jamun,Snacks/Dessert,20
+149,Coconut Water,Beverage,25
+150,Pasta Alfredo,Italian,110
